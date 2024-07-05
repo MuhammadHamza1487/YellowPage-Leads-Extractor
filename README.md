@@ -1,5 +1,3 @@
-Here's a README file for your Yellow Pages Scraper application:
-
 # Yellow Pages Scraper
 
 ## Overview
